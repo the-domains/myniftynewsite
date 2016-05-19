@@ -1,0 +1,14 @@
+layout_spectrum: 0.20140115218237042
+typography_spectrum: 0.27212592703290284
+color:
+  brandStrength: 0.47356454911641777
+  lightness: 0.2988963818643242
+  saturation: 0.1018379817251116
+  rhythmicContrast: 0.20619959058240056
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: myniftynewsite
